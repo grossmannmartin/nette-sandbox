@@ -1,4 +1,4 @@
-Vyvoj.net Personal Page
+Nette Sandbox
 =======================
 
-My personal page powered by Nette Framework
+Nette Framework sandbox with prepared WebLoader and LessPHP libraries
