@@ -1,0 +1,13 @@
+libs/*
+log/*
+nbproject/*
+temp/*
+
+.DS_Store
+!.gitignore
+!.htaccess
+
+composer.lock
+
+www/css/cssloader-*
+www/js/jsloader-*
